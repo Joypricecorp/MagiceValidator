@@ -11,8 +11,9 @@
         }
     ],
     "require":      {
-        "php":                  ">=5.3.3",
-        "symfony/validator":    "~2.3"
+        "php":                      ">=5.3.3",
+        "symfony/validator":        "~2.3",
+        "misd/phone-number-bundle": "~1.0"
     },
     "autoload": {
         "psr-0": { "Magice\\Validator": "" }
